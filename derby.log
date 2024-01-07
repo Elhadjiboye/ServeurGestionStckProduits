@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sun Jan 07 22:58:47 GMT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018c-e626-6d17-000002e418e0 
+on database directory memory:C:\Users\boyee\Desktop\formation_Spring\ServeurGestionStckProduits\5225e9c8-3fff-4787-a892-007b4decf31c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/C:/Users/boyee/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.1+12-29
+user.dir=C:\Users\boyee\Desktop\formation_Spring\ServeurGestionStckProduits
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jan 07 22:58:56 GMT 2024:
+Shutting down instance a816c00e-018c-e626-6d17-000002e418e0 on database directory memory:C:\Users\boyee\Desktop\formation_Spring\ServeurGestionStckProduits\5225e9c8-3fff-4787-a892-007b4decf31c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
